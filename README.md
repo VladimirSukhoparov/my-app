@@ -1,5 +1,5 @@
 # my-app
 
-branch ssr - preparation for a new application ssr
+branch 'ssr' - preparation for a new application ssr
 
-breanch scss-webpack - preparation for a new application 
+branch 'scss-webpack' - preparation for a new application html+scss+js+webpack 
